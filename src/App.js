@@ -32,7 +32,7 @@ function App() {
 
 	return (
 		<div className="App">
-			<h1>hello world</h1>
+			<h1>todo app with react and firebase!!!</h1>
 			<form>
 				<FormControl>
 					<InputLabel>Add todo</InputLabel>
